@@ -41,7 +41,7 @@
 
 
 
-## 🎯 Competitive Programming  
+## 🎯 Competitive Programming Profiles
 
 [![Codolio](https://img.shields.io/badge/Codolio-FFA500?logo=codolio&logoColor=white)](https://codolio.com/profile/young_hunt_47)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/bug_hunter_47)
