@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Adarsh Choubey
 
-### 🎓 NITA'29 | Electronics & Communication Engineering
+### 🎓 NITA'29 | ECE
 
 ### 💻 Competitive Programmer • 🤖 AI/ML Enthusiast • 🌐 Web Developer
 
