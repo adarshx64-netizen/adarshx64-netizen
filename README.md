@@ -24,6 +24,31 @@
 
 </div> -->
 
+## 🛠️ Languages & Tools
+
+<p align="center">
+  
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
+</p>
+
+---
+
+
+
+## 🎯 Competitive Programming  
+
+[![Codolio](https://img.shields.io/badge/Codolio-FFA500?logo=codolio&logoColor=white)](https://codolio.com/profile/young_hunt_47)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/bug_hunter_47)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/bug_hunter_47/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?logo=codeforces&logoColor=white)](https://codeforces.com/profile/bug_hunter_47)
+
+
 ## 🌐 Connect with Me
 <div align="center">
 
