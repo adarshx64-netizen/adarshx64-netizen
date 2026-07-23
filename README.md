@@ -12,15 +12,27 @@
 
 </div>
 
-<!-- <div align="center">
+<div align="center">
 
 # Hi 👋, I'm Adarsh Choubey
 
 ### 🎓 NITA'29 | ECE
 
-### 💻 Competitive Programmer • 🤖 AI/ML Enthusiast • 🌐 Web Developer -->
+### 💻 Competitive Programmer • 🤖 AI/ML Enthusiast • 🌐 Web Developer 
 
 </div>
 
----
+## 🌐 Connect with Me
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sombabaofficial/)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/som_baba_official/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/sombabaofficial)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@Sombabaofficial)
+
+</div>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
