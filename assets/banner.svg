@@ -46,24 +46,30 @@
         stroke="#30363D"
         stroke-width="2"/>
 
-    <!-- Profile Circle -->
-    <circle
-        cx="170"
-        cy="190"
-        r="78"
-        fill="#0D1117"
-        stroke="#58A6FF"
-        stroke-width="4"/>
+    <!-- Circular Image -->
 
-    <!-- Temporary Text -->
-    <text
-        x="145"
-        y="198"
-        font-size="20"
-        fill="#58A6FF"
-        font-family="monospace">
-IMG
-    </text>
+<defs>
+    <clipPath id="profileClip">
+        <circle cx="170" cy="190" r="78"/>
+    </clipPath>
+</defs>
+
+<circle
+    cx="170"
+    cy="190"
+    r="80"
+    fill="none"
+    stroke="#58A6FF"
+    stroke-width="4"/>
+
+<image
+    href="profile.png"
+    x="92"
+    y="112"
+    width="156"
+    height="156"
+    clip-path="url(#profileClip)"
+    preserveAspectRatio="xMidYMid slice"/>
 
     <!-- Name -->
     <text
