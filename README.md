@@ -8,7 +8,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 # 👋 Hi, I'm Adarsh Choubey
 
@@ -16,7 +16,7 @@
 
 ### 💻 Competitive Programmer • 🤖 AI/ML Enthusiast • 🌐 Web Developer
 
-</div>
+</div> -->
 
 ---
 
@@ -38,19 +38,17 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adarshx64-netizen&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarshx64-netizen&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshx64-netizen&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshx64-netizen&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
----
-
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -59,6 +57,12 @@
 </div>
 
 ---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=adarshx64-netizen&style=for-the-badge&color=blue)
+
+</div>
 
 ## 🏆 Competitive Programming Profiles
 
