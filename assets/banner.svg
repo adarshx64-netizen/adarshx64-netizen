@@ -1,1 +1,117 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" xmlns="http://www.w3.org/2000/svg">
 
+    <!-- Background -->
+    <rect width="1280" height="360" fill="#0D1117"/>
+
+    <!-- Main Card -->
+    <rect
+        x="20"
+        y="20"
+        width="1240"
+        height="320"
+        rx="18"
+        fill="#161B22"
+        stroke="#30363D"
+        stroke-width="2"/>
+
+    <!-- Blue Glow -->
+    <rect
+        x="20"
+        y="20"
+        width="1240"
+        height="320"
+        rx="18"
+        fill="none"
+        stroke="#58A6FF"
+        stroke-width="1"
+        opacity="0.35"/>
+
+    <!-- Terminal Title -->
+    <text
+        x="55"
+        y="65"
+        font-size="28"
+        fill="#58A6FF"
+        font-family="monospace"
+        font-weight="bold">
+&gt; whoami
+    </text>
+
+    <!-- Divider -->
+    <line
+        x1="50"
+        y1="85"
+        x2="1230"
+        y2="85"
+        stroke="#30363D"
+        stroke-width="2"/>
+
+    <!-- Profile Circle -->
+    <circle
+        cx="170"
+        cy="190"
+        r="78"
+        fill="#0D1117"
+        stroke="#58A6FF"
+        stroke-width="4"/>
+
+    <!-- Temporary Text -->
+    <text
+        x="145"
+        y="198"
+        font-size="20"
+        fill="#58A6FF"
+        font-family="monospace">
+IMG
+    </text>
+
+    <!-- Name -->
+    <text
+        x="310"
+        y="145"
+        font-size="38"
+        fill="#FFFFFF"
+        font-family="monospace"
+        font-weight="bold">
+Adarsh Choubey
+    </text>
+
+    <!-- College -->
+    <text
+        x="310"
+        y="180"
+        font-size="20"
+        fill="#58A6FF"
+        font-family="monospace">
+NIT Agartala • ECE'29
+    </text>
+
+    <!-- Roles -->
+    <text
+        x="310"
+        y="220"
+        font-size="18"
+        fill="#C9D1D9"
+        font-family="monospace">
+💻 Competitive Programmer
+    </text>
+
+    <text
+        x="310"
+        y="250"
+        font-size="18"
+        fill="#C9D1D9"
+        font-family="monospace">
+🤖 AI / Machine Learning
+    </text>
+
+    <text
+        x="310"
+        y="280"
+        font-size="18"
+        fill="#C9D1D9"
+        font-family="monospace">
+🌐 Web Developer
+    </text>
+
+</svg>
