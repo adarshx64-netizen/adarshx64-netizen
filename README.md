@@ -64,6 +64,36 @@
 
 </div>
 
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=adarshx64-netizen&theme=algolia&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+[![Adarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adarshx64-netizen&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+# 💭 Quote of the Day
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+
+</div>
+
+---
+
 ## 🏆 Competitive Programming Profiles
 
 <div align="center">
@@ -95,11 +125,5 @@
 </div>
 
 ---
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=adarshx64-netizen&color=blue&style=for-the-badge)
-
-</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
